@@ -1,4 +1,4 @@
-dist: jammy
+dist: xenial
 group: dev
 addons:
   mariadb: '10.9'
